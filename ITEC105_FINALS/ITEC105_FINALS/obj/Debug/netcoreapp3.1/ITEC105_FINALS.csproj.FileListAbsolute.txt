@@ -1,0 +1,14 @@
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\bin\Debug\netcoreapp3.1\ITEC105_FINALS.exe
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\bin\Debug\netcoreapp3.1\ITEC105_FINALS.deps.json
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\bin\Debug\netcoreapp3.1\ITEC105_FINALS.runtimeconfig.json
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\bin\Debug\netcoreapp3.1\ITEC105_FINALS.runtimeconfig.dev.json
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\bin\Debug\netcoreapp3.1\ITEC105_FINALS.dll
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\bin\Debug\netcoreapp3.1\ITEC105_FINALS.pdb
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\obj\Debug\netcoreapp3.1\ITEC105_FINALS.csproj.AssemblyReference.cache
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\obj\Debug\netcoreapp3.1\ITEC105_FINALS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\obj\Debug\netcoreapp3.1\ITEC105_FINALS.AssemblyInfoInputs.cache
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\obj\Debug\netcoreapp3.1\ITEC105_FINALS.AssemblyInfo.cs
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\obj\Debug\netcoreapp3.1\ITEC105_FINALS.csproj.CoreCompileInputs.cache
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\obj\Debug\netcoreapp3.1\ITEC105_FINALS.dll
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\obj\Debug\netcoreapp3.1\ITEC105_FINALS.pdb
+C:\Users\kwini\source\repos\ITEC105_FINALS\ITEC105_FINALS\obj\Debug\netcoreapp3.1\ITEC105_FINALS.genruntimeconfig.cache
